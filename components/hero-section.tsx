@@ -28,7 +28,7 @@ export function HeroSection() {
             size="lg"
             className="bg-orange-600 hover:bg-orange-700"
           >
-            <Link href="tel: +91-8329650000">Call us now</Link>
+            <Link href="tel: +91-9422714413">Call us now</Link>
           </Button>
           <Button
             asChild
