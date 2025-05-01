@@ -63,10 +63,10 @@ export function ContactSection() {
                   <div>
                     <h4 className="font-medium mb-1">Phone Numbers</h4>
                     <p className="text-gray-700">
-                      Temple Office: +91 240 2400620
+                      Temple Office: +91-9422714413
                     </p>
                     <p className="text-gray-700">
-                      Visitor Information: +91 240 2400621
+                      Visitor Information: +91-9422714413
                     </p>
                   </div>
                 </div>
@@ -75,10 +75,10 @@ export function ContactSection() {
                   <Mail className="h-5 w-5 text-orange-600 mr-4 mt-1" />
                   <div>
                     <h4 className="font-medium mb-1">Email</h4>
-                    <p className="text-gray-700">info@grishneshwartemple.org</p>
-                    <p className="text-gray-700">
+                    <p className="text-gray-700">akshayvaidya5004@gmail.com</p>
+                    {/* <p className="text-gray-700">
                       admin@grishneshwartemple.org
-                    </p>
+                    </p> */}
                   </div>
                 </div>
 
