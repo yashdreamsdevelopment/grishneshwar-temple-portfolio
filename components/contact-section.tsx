@@ -82,7 +82,7 @@ export function ContactSection() {
                   </div>
                 </div>
 
-                <div className="flex items-start">
+                {/* <div className="flex items-start">
                   <Clock className="h-5 w-5 text-orange-600 mr-4 mt-1" />
                   <div>
                     <h4 className="font-medium mb-1">Office Hours</h4>
@@ -91,14 +91,14 @@ export function ContactSection() {
                     </p>
                     <p className="text-gray-700">Sunday: 10:00 AM - 2:00 PM</p>
                   </div>
-                </div>
+                </div> */}
 
                 <div className="flex items-start">
                   <MapPin className="h-5 w-5 text-orange-600 mr-4 mt-1" />
                   <div>
                     <h4 className="font-medium mb-1">Address</h4>
                     <p className="text-gray-700">
-                      Grishneshwar Temple Trust,
+                      Grishneshwar Temple 12th Jyotirlinga,
                       <br />
                       Verul, Ellora,
                       <br />

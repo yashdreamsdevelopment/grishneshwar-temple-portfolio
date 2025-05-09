@@ -168,8 +168,8 @@ export function Footer() {
               <li className="flex items-start">
                 <MapPin className="h-5 w-5 text-orange-500 mr-3 mt-0.5" />
                 <span className="text-gray-400">
-                  Verul, Ellora, Aurangabad District, Maharashtra, India -
-                  431102
+                  Grishneshwar Temple 12th Jyotirlinga, Verul, Ellora,
+                  Aurangabad District, Maharashtra, India - 431102
                 </span>
               </li>
               <li className="flex items-center">
@@ -188,7 +188,7 @@ export function Footer() {
 
         <div className="border-t border-gray-800 mt-12 pt-8 text-center text-gray-400">
           <p>
-            © {new Date().getFullYear()} Grishneshwar Temple Trust. All rights
+            © {new Date().getFullYear()} Grishneshwar Temple. All rights
             reserved.
           </p>
           <div className="mt-2 flex justify-center space-x-6">
